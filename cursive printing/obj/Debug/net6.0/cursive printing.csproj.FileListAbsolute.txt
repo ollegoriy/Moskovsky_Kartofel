@@ -1,0 +1,36 @@
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\bin\Debug\net6.0\cursive printing.exe
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\bin\Debug\net6.0\cursive printing.deps.json
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\bin\Debug\net6.0\cursive printing.runtimeconfig.json
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\bin\Debug\net6.0\cursive printing.dll
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\bin\Debug\net6.0\cursive printing.pdb
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.csproj.CopyComplete
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.dll
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\refint\cursive printing.dll
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.pdb
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\obj\Debug\net6.0\ref\cursive printing.dll
+C:\Users\Егор\Desktop\Заказы\Скоропечатание\cursivePrinting\cursive printing\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\bin\Debug\net6.0\cursive printing.exe
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\bin\Debug\net6.0\cursive printing.deps.json
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\bin\Debug\net6.0\cursive printing.runtimeconfig.json
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\bin\Debug\net6.0\cursive printing.dll
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\bin\Debug\net6.0\cursive printing.pdb
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.csproj.AssemblyReference.cache
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.AssemblyInfoInputs.cache
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.AssemblyInfo.cs
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.csproj.CopyComplete
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.dll
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\refint\cursive printing.dll
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.pdb
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\cursive printing.genruntimeconfig.cache
+C:\Users\Oleg\source\repos\PW8\cursivePrinting\cursive printing\obj\Debug\net6.0\ref\cursive printing.dll
